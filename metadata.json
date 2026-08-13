@@ -1,0 +1,6 @@
+{
+  "name": "VaultGuard Personal Info",
+  "description": "Secure encrypted vault for personal profile, documents, ID numbers, phone numbers, and notes with biometric protection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
